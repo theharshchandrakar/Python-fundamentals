@@ -9,6 +9,7 @@
 ### Folder Organization
 - Created "Jupyter Files" folder and moved all `.ipynb` files
 - Created "Python Scripts" folder and moved all `.py` files including conversion script
+- Copied CSV data files to both "Jupyter Files" and "Python Scripts" folders for script compatibility
 
 ### Bug Fixes
 
