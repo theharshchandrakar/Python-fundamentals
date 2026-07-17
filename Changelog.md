@@ -6,6 +6,10 @@
 - Converted all 20 `.ipynb` files to `.py` format
 - Created `convert_ipynb_to_py.py` for automated markdown-to-comment conversion
 
+### Folder Organization
+- Created "Jupyter Files" folder and moved all `.ipynb` files
+- Created "Python Scripts" folder and moved all `.py` files including conversion script
+
 ### Bug Fixes
 
 | File | Issue | Fix |
