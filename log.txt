@@ -1,1 +1,2 @@
 System Initialized
+User logged in
